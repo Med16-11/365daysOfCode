@@ -24,6 +24,9 @@
 ##### Using Post Method
 ![image](https://user-images.githubusercontent.com/78318301/204087034-e336e10d-eb46-47e2-8501-2ccac6eacf9a.png) 
 
+### Put Method (to update something that already exists)
+
+
 
 
 
