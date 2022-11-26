@@ -11,4 +11,6 @@
 ![image](https://user-images.githubusercontent.com/78318301/204074132-84aedfe5-0446-4880-8e27-630de30ab527.png)
 ![image](https://user-images.githubusercontent.com/78318301/204074165-cd0b7eb1-ad3e-41d8-8cdf-918607c77da8.png)
 
-
+### Query Parameters
+![image](https://user-images.githubusercontent.com/78318301/204085937-6d6a6a35-227c-4bd6-82b1-3c45eadd8ca3.png)
+![image](https://user-images.githubusercontent.com/78318301/204085948-5403c888-b3c5-473d-a299-aed53f82995b.png)
