@@ -13,4 +13,19 @@
 
 ### Query Parameters
 ![image](https://user-images.githubusercontent.com/78318301/204085937-6d6a6a35-227c-4bd6-82b1-3c45eadd8ca3.png)
-![image](https://user-images.githubusercontent.com/78318301/204085948-5403c888-b3c5-473d-a299-aed53f82995b.png)
+![image](https://user-images.githubusercontent.com/78318301/204085948-5403c888-b3c5-473d-a299-aed53f82995b.png) Data Found
+![image](https://user-images.githubusercontent.com/78318301/204086015-023f6aeb-9750-479a-a2c8-b55bb6eb152a.png) Data Not Found
+
+### Request Body and the Post Method
+#### importing library
+![image](https://user-images.githubusercontent.com/78318301/204086986-467288b0-abe3-45db-8222-4a1929c1e358.png) 
+##### creating class
+![image](https://user-images.githubusercontent.com/78318301/204087015-cedd6f5b-e1fa-492c-9f29-7818b730fd7e.png)
+##### Using Post Method
+![image](https://user-images.githubusercontent.com/78318301/204087034-e336e10d-eb46-47e2-8501-2ccac6eacf9a.png) 
+
+
+
+
+
+
